@@ -1,9 +1,5 @@
-<<<<<<< HEAD
 *.class #para java
 *.out   #para c
-=======
-*.class
->>>>>>> bc224bb85ea700f28b870af00dd8df6e64213272
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
