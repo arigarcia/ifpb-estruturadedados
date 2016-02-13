@@ -1,5 +1,7 @@
-*.class #para java
-*.out   #para c
+#para java
+*.java
+#para c
+*.out
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
